@@ -1,0 +1,32 @@
+2026-09-15 11:07:53 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 1: http://quotes.toscrape.com/
+2026-09-15 11:07:53 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/ (attempt 1/3)
+2026-09-15 11:07:54 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/
+2026-09-15 11:07:54 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 2: http://quotes.toscrape.com/page/2/
+2026-09-15 11:07:54 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/page/2/ (attempt 1/3)
+2026-09-15 11:07:55 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/page/2/
+2026-09-15 11:07:56 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 3: http://quotes.toscrape.com/page/3/
+2026-09-15 11:07:56 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/page/3/ (attempt 1/3)
+2026-09-15 11:07:56 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/page/3/
+2026-09-15 11:07:57 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 4: http://quotes.toscrape.com/page/4/
+2026-09-15 11:07:57 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/page/4/ (attempt 1/3)
+2026-09-15 11:07:57 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/page/4/
+2026-09-15 11:07:57 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 5: http://quotes.toscrape.com/page/5/
+2026-09-15 11:07:57 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/page/5/ (attempt 1/3)
+2026-09-15 11:07:58 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/page/5/
+2026-09-15 11:07:59 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 6: http://quotes.toscrape.com/page/6/
+2026-09-15 11:07:59 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/page/6/ (attempt 1/3)
+2026-09-15 11:07:59 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/page/6/
+2026-09-15 11:08:00 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 7: http://quotes.toscrape.com/page/7/
+2026-09-15 11:08:00 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/page/7/ (attempt 1/3)
+2026-09-15 11:08:00 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/page/7/
+2026-09-15 11:08:01 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 8: http://quotes.toscrape.com/page/8/
+2026-09-15 11:08:01 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/page/8/ (attempt 1/3)
+2026-09-15 11:08:01 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/page/8/
+2026-09-15 11:08:02 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 9: http://quotes.toscrape.com/page/9/
+2026-09-15 11:08:02 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/page/9/ (attempt 1/3)
+2026-09-15 11:08:02 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/page/9/
+2026-09-15 11:08:03 | INFO | quotes_scraper.pipeline | run_scraper | Scraping page 10: http://quotes.toscrape.com/page/10/
+2026-09-15 11:08:03 | INFO | quotes_scraper.http_client | get | Fetching http://quotes.toscrape.com/page/10/ (attempt 1/3)
+2026-09-15 11:08:03 | INFO | quotes_scraper.parser | parse_quotes | Parsed 10 quotes from http://quotes.toscrape.com/page/10/
+2026-09-15 11:08:03 | INFO | quotes_scraper.exporter | export_records | Exported 100 records to quotes_clean.csv and quotes_clean.json
+2026-09-15 11:08:03 | INFO | quotes_scraper.pipeline | run_scraper | Scrape complete: 100 unique quotes from 10 pages
